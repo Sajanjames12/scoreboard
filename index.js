@@ -33,6 +33,7 @@ function plusThreeGuest() {
 }
 
 function resetButton() {
+function resetButton(){
   currentScore1Int = 0;
   currentScore2Int = 0;
   score1.innerHTML = 0 ;
